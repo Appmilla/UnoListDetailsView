@@ -1,0 +1,4 @@
+﻿
+namespace ListDetailsViewAPP.Skia.Gtk
+{
+}

@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ListDetailsViewAPP/ListDetailsViewAPP.Droid/obj
+/.vs/ListDetailsViewAPP/DesignTimeBuild
+/ListDetailsViewAPP/ListDetailsViewAPP.iOS/obj
+/ListDetailsViewAPP/ListDetailsViewAPP.macOS/obj
+/ListDetailsViewAPP/ListDetailsViewAPP.Skia.Gtk/obj
+/ListDetailsViewAPP/ListDetailsViewAPP.Skia.Tizen/obj
+/ListDetailsViewAPP/ListDetailsViewAPP.Skia.Wpf/obj
+/ListDetailsViewAPP/ListDetailsViewAPP.Skia.Wpf.Host/obj
+/ListDetailsViewAPP/ListDetailsViewAPP.UWP/bin/x86/Debug
+/ListDetailsViewAPP/ListDetailsViewAPP.UWP/obj
+/ListDetailsViewAPP/ListDetailsViewAPP.Wasm/obj
