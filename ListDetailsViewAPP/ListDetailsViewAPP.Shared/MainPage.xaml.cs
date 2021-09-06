@@ -22,9 +22,13 @@ namespace ListDetailsViewAPP
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        public MainPageViewModel ViewModel { get; private set; }
+
         public MainPage()
         {
             this.InitializeComponent();
+
+            this.DataContext = ViewModel = new MainPageViewModel();
         }
     }
 }
